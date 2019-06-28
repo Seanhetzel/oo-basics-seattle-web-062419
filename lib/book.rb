@@ -13,7 +13,7 @@ class Book
   def author=(author_name)
     @author = author_name
   end
-  
+
   def author
     @author
   end
